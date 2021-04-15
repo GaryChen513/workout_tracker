@@ -11,7 +11,9 @@ Workout-Tracker provides the user with plenty of functionality to help them reac
  * View past workout
 
 <br/>
-Currently this project is deployed [here](https://young-lake-51435.herokuapp.com/)
+
+## Screenshot
+![workoutTracker](./assets/Fitness_Chart.png)
   
 
 ## Table of Contents
