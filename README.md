@@ -11,7 +11,7 @@ Workout-Tracker provides the user with plenty of functionality to help them reac
  * View past workout
 
 <br/>
-Currently this project is deployed [here]()
+Currently this project is deployed [here](https://young-lake-51435.herokuapp.com/)
   
 
 ## Table of Contents
@@ -25,7 +25,7 @@ Currently this project is deployed [here]()
 - [Questions](#questions)
 
 ## Installation
-Users can view the deployed project [here](). If you intend to iterate on the project, besides downlodaing the repo to your machine, be sure to run `npm install` in the root diractory and to also have MongoDB installed and ready.
+Users can view the deployed project [here](https://young-lake-51435.herokuapp.com/). If you intend to iterate on the project, besides downlodaing the repo to your machine, be sure to run `npm install` in the root diractory and to also have MongoDB installed and ready.
 
 
 ## Usage
